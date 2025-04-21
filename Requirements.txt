@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pillow
+pymupdf
+llama-cpp-python
+astrapy
+python-dotenv
